@@ -9,6 +9,4 @@ Pour envoyer:
 - Email à bielarous@mail.com ou outil de partage de fichier type wetransfer ou partage temporaire.
 - Ouvrir une issue avec le lien vers la ressource (necessite un compte github).
 
-Pour recuperer:
-- cliquer sur "clone or download" -> download as zip
-- Pour les fichiers HTML clic droit sur le fichier -> open with ou ouvrir avec -> votre navigateur
+Pour recuperer: cliquer sur "clone or download" -> download as zip
